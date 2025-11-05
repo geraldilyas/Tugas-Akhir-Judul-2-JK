@@ -6,9 +6,11 @@ akan menghasilkan reply yang dikarenakan kedua PC masih berada pada jaringan ber
 alamat IP dan default gateway sebagai alamat untuk mencapai jaringan di luarnya maka ping berhasil dan kedua PC dapat bertukar informasi
 
 Ping tidak berhasil:
+
 ![WhatsApp Image 2025-11-05 at 23 25 43_aaef12c4](https://github.com/user-attachments/assets/ca019272-b831-4da0-909c-6e3560c191bf)
 
 Ping berhasil:
+
 ![WhatsApp Image 2025-11-05 at 23 26 02_23f7a9c8](https://github.com/user-attachments/assets/c96a58f1-b4d4-4dea-b991-af4d81a9167e)
 
 
